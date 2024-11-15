@@ -13,9 +13,10 @@ conda create -n telebot Python=3.7 -y
 
 ```bash
 conda activate telebot
-Install Required Packages
-Install the necessary packages listed in requirements.txt:
+```
 
-bash
-Copy code
+Install Required Packages
+
+```bash
 pip install -r requirements.txt
+```
