@@ -8,7 +8,7 @@
 
  
 
- # How to run a code:
+# How to run a code:
 
 ```bash
 conda create -n telebot Python=3.7 -y
