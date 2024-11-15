@@ -1,0 +1,23 @@
+# TELEBOT_GPT_3.5_TURBO_DSM_1.0
+
+
+# Prerequisites: 
+- Python 3.7
+- Telegram account
+- OpenAI account api key 
+
+ 
+
+ # How to run a code:
+
+```bash
+conda create -n telebot Python=3.7 -y
+```
+
+```bash
+conda activate telebot
+```
+
+```bash
+pip install -r requirements.txt
+```
