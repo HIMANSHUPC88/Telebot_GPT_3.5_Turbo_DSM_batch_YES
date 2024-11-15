@@ -1,17 +1,17 @@
-TELEBOT_GPT_3.5_TURBO_DSM_1.0
-A simple bot that integrates with Telegram and uses OpenAI's API to provide conversational capabilities.
+# TELEBOT_GPT_3.5_TURBO_DSM_1.0
 
-Prerequisites
-Python 3.7
-Telegram account
-OpenAI account API key
-How to Run the Code
-Create and Activate a Conda Environment
-Create a new Conda environment with Python 3.7 and activate it:
+## Prerequisites: 
+- Python 3.7
+- Telegram account
+- OpenAI account api key 
 
-bash
-Copy code
-conda create -n telebot python=3.7 -y
+## How to run a code:
+
+```bash
+conda create -n telebot Python=3.7 -y
+```
+
+```bash
 conda activate telebot
 Install Required Packages
 Install the necessary packages listed in requirements.txt:
